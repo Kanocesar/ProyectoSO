@@ -1,0 +1,16 @@
+C:\Users\charl\OneDrive\Escritorio\SO PROJECT\yonunca\yonunca\obj\x86\Debug\yonunca.Form1.resources
+C:\Users\charl\OneDrive\Escritorio\SO PROJECT\yonunca\yonunca\obj\x86\Debug\yonunca.Properties.Resources.resources
+C:\Users\charl\OneDrive\Escritorio\SO PROJECT\yonunca\yonunca\obj\x86\Debug\yonunca.csproj.GenerateResource.Cache
+C:\Users\charl\OneDrive\Escritorio\SO PROJECT\yonunca\yonunca\bin\Debug\yonunca.exe
+C:\Users\charl\OneDrive\Escritorio\SO PROJECT\yonunca\yonunca\bin\Debug\yonunca.pdb
+C:\Users\charl\OneDrive\Escritorio\SO PROJECT\yonunca\yonunca\obj\x86\Debug\yonunca.exe
+C:\Users\charl\OneDrive\Escritorio\SO PROJECT\yonunca\yonunca\obj\x86\Debug\yonunca.pdb
+C:\Users\charl\OneDrive\Escritorio\SO PROJECT\yonunca\yonunca\obj\x86\Debug\yonunca.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\pro 4\SO PROJECT\yonunca\yonunca\obj\x86\Debug\yonunca.exe
+C:\Users\Cesar\Desktop\pro 4\SO PROJECT\yonunca\yonunca\obj\x86\Debug\yonunca.pdb
+C:\Users\Cesar\Desktop\pro 4\SO PROJECT\yonunca\yonunca\bin\Debug\yonunca.exe
+C:\Users\Cesar\Desktop\pro 4\SO PROJECT\yonunca\yonunca\bin\Debug\yonunca.pdb
+C:\Users\Cesar\Desktop\pro 4\SO PROJECT\yonunca\yonunca\obj\x86\Debug\yonunca.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\pro 4\SO PROJECT\yonunca\yonunca\obj\x86\Debug\yonunca.Form1.resources
+C:\Users\Cesar\Desktop\pro 4\SO PROJECT\yonunca\yonunca\obj\x86\Debug\yonunca.Properties.Resources.resources
+C:\Users\Cesar\Desktop\pro 4\SO PROJECT\yonunca\yonunca\obj\x86\Debug\yonunca.csproj.GenerateResource.Cache
